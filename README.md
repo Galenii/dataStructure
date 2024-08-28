@@ -18,3 +18,6 @@ A escolha do **algoritmo de ordenação** depende de vários fatores, como o tam
 Esses algoritmos são amplamente estudados e aplicados em diversas áreas, como bancos de dados, algoritmos de busca e sistemas de gerenciamento de arquivos.
 
 Se precisar de mais detalhes sobre algum algoritmo específico ou tiver outra dúvida, estou aqui para ajudar! 
+
+## Autor
+Desenvolvido por **Guilherme Galeni**
